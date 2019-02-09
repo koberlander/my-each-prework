@@ -4,4 +4,5 @@ def my_each(collection)
     while i < collection.length
     this happens
     i +=1 
+  end
 end
