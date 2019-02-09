@@ -1,7 +1,7 @@
-def my_each # put argument(s) here
-  counter = 0 
+def my_each(collection)
+  i = 0 
   
-    while counter <>= something
+    while i <>= something
     this happens
-    counter +=1 
+    i +=1 
 end
