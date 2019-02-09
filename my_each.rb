@@ -3,5 +3,5 @@ def my_each # put argument(s) here
   
     while counter <>= something
     this happens
-    counter
+    counter +=1 
 end
