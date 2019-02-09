@@ -1,8 +1,8 @@
 def my_each(words)
   i = 0 
   
-    while i < collection.length
-    yield 
+    while i < words.length
+    yield words[i]
     i +=1 
   end
 end
