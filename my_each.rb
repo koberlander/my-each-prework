@@ -1,7 +1,7 @@
 def my_each # put argument(s) here
-  i = 0 
+  counter = 0 
   
-    while i <>= something
+    while counter <>= something
     this happens
-    i+=
+    counter
 end
